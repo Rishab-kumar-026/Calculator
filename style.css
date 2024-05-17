@@ -19,12 +19,9 @@
     font-size:1.9rem;
     font-weight:600;
     letter-spacing: 1.2px;
-    color:#fdfdfd;
-    transition: .5s ease;;
+    color:#7351df;
 }
-.container:hover h2{
-    color: #7351df;
-}
+
 
 
 .container .calculator {
