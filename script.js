@@ -12,6 +12,6 @@ const scrollRevealOption = {
   });
   ScrollReveal().reveal(".container h2", {
     ...scrollRevealOption,
-    origin:"left",
+    origin:"top",
   });
   
